@@ -1,13 +1,10 @@
 PixelOS
 Redmi K20/ MI 9T
-Changelog - 30 September 2020
+Changelog - 8 October 2020
 -----------------------------------------------------
-Fixed Missing Stuff in Vendor
-Fixed Live Wallpaper Lag
 Fixed Log Spamming Sometimes
-Based on New Arian's Kernel
-Better Automatic Brightness after Unlock
-Improve Face Unlock
-Some LED Nodes Changes
+Fixed Dull AOD
+Changed OTA Updater APP
+Fixed OTA Updater APP
+Some Audio Changes
 Something Else Which I Forgot As Usual
-Rebased DT on New Arian's Changes
