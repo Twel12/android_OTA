@@ -7,4 +7,5 @@ Fixed Dull AOD
 Changed OTA Updater APP
 Fixed OTA Updater APP
 Some Audio Changes
+October Security Patch
 Something Else Which I Forgot As Usual
